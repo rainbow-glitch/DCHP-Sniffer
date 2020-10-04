@@ -1,6 +1,6 @@
 # DCHP-Sniffer
 
-![Maintenance](https://img.shields.io/maintenance/yes/2020?color=blue) 
+![Maintenance](https://img.shields.io/maintenance/yes/2020?color=blue) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rainbow-glitch/DCHP-Sniffer?color=red)
 
 Sniffs DCHP packets to detect when a set ip connects to your network
 
